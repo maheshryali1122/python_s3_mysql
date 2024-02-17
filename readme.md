@@ -54,6 +54,9 @@
 
   ![alt text](./images/databasedata.JPG)
 
+  * The files stored in s3 bucket as shown in below.
+  ![alt text](./images/s3storage.JPG)
+
 
 
 
