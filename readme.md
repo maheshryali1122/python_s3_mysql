@@ -35,7 +35,9 @@
    sudo apt-get install python3-boto3
    ---
 ## Change the configuration values of mysql database in config.py file:
-   * Replace the following key to the created values
+   * Clone the github url.
+     "git clone https://github.com/maheshryali1122/python_s3_mysql.git"
+   * Replace the following key to the created values in config.py.
      customhost = "endpointofRDS",
      customuser = "databaseuser"
      custompass = "databasepassword"
